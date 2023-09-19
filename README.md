@@ -13,11 +13,8 @@ A settings.json file will be opened.
 
 ## reference
 
-* officle site - Theme Color:
-  https://code.visualstudio.com/api/references/theme-color
+[officle site - Theme Color](https://code.visualstudio.com/api/references/theme-color)
 
-* stackoverflow-How to edit default dark theme for Visual Studio Code?:
-  https://stackoverflow.com/questions/35165362/how-to-edit-default-dark-theme-for-visual-studio-code
+[stackoverflow-How to edit default dark theme for Visual Studio Code?](https://stackoverflow.com/questions/35165362/how-to-edit-default-dark-theme-for-visual-studio-code)
 
-* selfelected - Change background colour in vscode
-  https://www.selfelected.com/change-background-colour-in-vscode/
+[selfelected - Change background colour in vscode](https://www.selfelected.com/change-background-colour-in-vscode/)
