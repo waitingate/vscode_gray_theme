@@ -1,1 +1,18 @@
-
+{
+    "editor.fontFamily": "Hack, Consolas, 'Courier New', monospace",
+    "workbench.colorCustomizations": {
+        "list.inactiveSelectionBackground": "#C5DEF0",
+        "sideBar.background": "#CECECE",
+        "sideBar.foreground": "#000000",
+        "editor.background": "#DEDEDE",
+        //"editor.foreground": "#000000",
+        "sideBarSectionHeader.background": "#CAC9C9",
+        //"sideBarSectionHeader.foreground": "#000000",
+        //"activityBar.border": "#FFFFFF",
+        "statusBar.background": "#102F97",
+        //"scrollbarSlider.activeBackground": "#77D4CB",
+        //"scrollbarSlider.hoverBackground": "#8CE6DA",
+        //"badge.background": "#81CA91"
+    },
+    "workbench.colorTheme": "Default Light+"
+}
