@@ -7,12 +7,12 @@ The reason for changing the background color from #ffffff to #dedede (to gray) i
 
 ## Setup
 
-Download and replace settings.json file 
+Download and replace settings.json file.
 
-Windows settings.json file path: "%appdata%\VSCodium\User\settings.json"
+Windows settings.json file path: "%appdata%\VSCodium\User\settings.json".
 
 
-You can also customize your active Visual Studio Code color theme with the workbench.colorCustomizations user setting.
+You can also customize your active Visual Studio Code color theme using the workbench.colorCustomizations user setting.
 
 Go to Settings (ctrl+,), search for “color customizations”, select “Edit in settings.json” below Workbench: Color Customizations.
 
