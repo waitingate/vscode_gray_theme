@@ -2,14 +2,14 @@
 
 Gray theme files for visual studio code
 
-VS Code theme with gray background, which perfectly work with the"Default Light+" theme.
+VS Code theme with gray background which perfectly work with the "Default Light+" theme.
 The reason for changing the background color from #ffffff to #dedede (to gray) is because LED displays have higher contrast, so this would be a good idea to change background color to deeper color if the light hurts your eyes.
 
 ## Setup
 
 Download and replace settings.json file.
 
-Windows settings.json file path: "%appdata%\VSCodium\User\settings.json".
+Windows VSCodium settings.json file path: "%appdata%\VSCodium\User\settings.json".
 
 
 You can also customize your active Visual Studio Code color theme using the workbench.colorCustomizations user setting.
@@ -17,10 +17,6 @@ You can also customize your active Visual Studio Code color theme using the work
 Go to Settings (ctrl+,), search for “color customizations”, select “Edit in settings.json” below Workbench: Color Customizations.
 
 A settings.json file will be opened, you can edit it or replace it.
-
-## VSCodium settings.json file path 
-
-"%appdata%\VSCodium\User\settings.json"
 
 ## reference
 
